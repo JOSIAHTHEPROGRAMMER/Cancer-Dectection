@@ -33,8 +33,8 @@ The dataset contains **569 entries** and **32 features**, including:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/breast-cancer-predictor.git
-cd breast-cancer-predictor
+git clone https://github.com/JOSIAHTHEPROGRAMMER/Cancer-Dectection.git
+cd Cancer-Dectection
 ```
 
 ### 2. Install Dependencies
